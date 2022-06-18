@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "eslint-plugin-custom",
+  "name": "@dave-bernhard/eslint-plugin-custom",
   "author": "Dave Bernhard",
   "module": "dist/eslint-plugin-custom.esm.js",
   "size-limit": [
