@@ -13,9 +13,6 @@ const createRule = ESLintUtils.RuleCreator((name: string) =>
 // Rule Definition
 //------------------------------------------------------------------------------
 
-/**
- * @type {import('eslint').Rule.RuleModule}
- */
 export const rule = createRule({
   name: 'todo=jira-ticket',
   meta: {
